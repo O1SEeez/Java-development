@@ -1,0 +1,22 @@
+1. Переменные разных типов
+age (int) = 20
+height (double) = 1.82
+grade (char) = A
+isStudent (boolean) = true
+name (String) = Олег
+
+2. Арифметические операции (a = 15, b = 4)
+a + b = 19
+a - b = 11
+a * b = 60
+a / b = 3
+a % b = 3
+
+3. Логические операции (x = true, y = false)
+x && y = false
+x || y = true
+!x = false
+!y = true
+
+4. Работа со строками
+Привет, Олег! Тебе 20 лет.
